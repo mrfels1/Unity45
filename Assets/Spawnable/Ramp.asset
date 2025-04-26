@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 632e3ce52eb1a0d48a62c6e524342b21, type: 3}
+  m_Name: Ramp
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6940062758942226139, guid: 09487fe8b0b320847bc5c05bd11aa49f, type: 3}
+  spawnOffset: {x: 0, y: 1, z: 0}
+  randomRotationMin: {x: 0, y: 0, z: -90}
+  randomRotationMax: {x: 0, y: 0, z: -70}
+  randomPositionMin: {x: 0, y: 0, z: 0}
+  randomPositionMax: {x: 0, y: 0, z: 0}
